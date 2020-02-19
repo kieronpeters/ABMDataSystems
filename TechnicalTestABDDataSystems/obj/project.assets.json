@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kiero\\Desktop\\TechnicalTestABDDataSystems\\TechnicalTestABDDataSystems\\TechnicalTestABDDataSystems.csproj",
+      "projectUniqueName": "C:\\Users\\kiero\\Desktop\\ABMDataSystems\\TechnicalTestABDDataSystems\\TechnicalTestABDDataSystems.csproj",
       "projectName": "TechnicalTestABDDataSystems",
-      "projectPath": "C:\\Users\\kiero\\Desktop\\TechnicalTestABDDataSystems\\TechnicalTestABDDataSystems\\TechnicalTestABDDataSystems.csproj",
+      "projectPath": "C:\\Users\\kiero\\Desktop\\ABMDataSystems\\TechnicalTestABDDataSystems\\TechnicalTestABDDataSystems.csproj",
       "packagesPath": "C:\\Users\\kiero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kiero\\Desktop\\TechnicalTestABDDataSystems\\TechnicalTestABDDataSystems\\obj\\",
+      "outputPath": "C:\\Users\\kiero\\Desktop\\ABMDataSystems\\TechnicalTestABDDataSystems\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
