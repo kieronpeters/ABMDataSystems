@@ -22,9 +22,8 @@ namespace TechnicalTestABDDataSystems
         private bool LoadFromXMLString(string xml)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(InputDocument));
-            StringReader rdr = new StringReader(Xml);
-            InputDocument resultingMessage = (InputDocument)serializer.Deserialize(rdr);
-            resultingMessage.ToString();
+            InputDocument resultingMessage = (InputDocument)serializer.Deserialize(new XmlTextReader(Path.Combine(Environment.CurrentDirectory, @"content.xml")));
+            Console.WriteLine(resultingMessage.DeclarationList.Declaration.Command);
             return true;
 
         }
