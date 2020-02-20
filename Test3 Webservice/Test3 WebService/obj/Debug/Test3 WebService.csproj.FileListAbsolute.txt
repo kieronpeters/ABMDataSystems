@@ -54,3 +54,6 @@ C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\Micr
 C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.csproj.CopyComplete
 C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.dll
 C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.pdb
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\nunit.framework.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\nunit.framework.pdb
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\nunit.framework.xml
