@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -26,11 +27,19 @@ DTM+182:20090527:102'";
 
             // split on newline, then select lines starting with LOC+ 
             string[] lines = getLines(Edifact);
-
-            buildResults(ref results, lines);
-            renderResults(ref results);
+            bool resultsBuilt = buildResults(ref results, lines);
+            bool renderedResults = renderResults(ref results);
+            test1_UnitTests(resultsBuilt, renderedResults);
             Console.WriteLine();
             return true;
+        }
+
+        [Test]
+        private void test1_UnitTests(bool resultsBuilt, bool renderedResults)
+        {
+            // small unit tests to check results were gathered and shown as expected
+            Assert.True(resultsBuilt);
+            Assert.True(renderedResults);
         }
 
         private static bool buildResults(ref List<string[]> results, string[] lines)
@@ -65,7 +74,7 @@ DTM+182:20090527:102'";
         private static bool renderResults(ref List<string[]> results)
         {
             int i = 1;
-
+            
             foreach (string[] result in results)
             {
                 // print out lines of the results found
@@ -87,6 +96,7 @@ DTM+182:20090527:102'";
 
         private static string[] getLines(string edifact)
         {
+            // Here I split off the new lines and remove empty lines, then only return lines starting with LOC+ to parse all relevant lines
             string[] lines = edifact.Split(new char[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
             return lines.Where(line => line.StartsWith("LOC+")).ToArray();
         }

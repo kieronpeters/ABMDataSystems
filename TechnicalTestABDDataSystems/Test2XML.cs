@@ -20,13 +20,15 @@ namespace TechnicalTestABDDataSystems
             bool harvestedData = HarvestTargetXMLElements(ref xmlFileObject, ref targetXMLContents);
             bool printedData = PrintTargetXMLContent(ref targetXMLContents);
             Test2_UnitTests(loadedFile, harvestedData, printedData);
-           
+            Console.WriteLine();
 
             return true;
         }
 
+        [Test]
         private void Test2_UnitTests(bool loadedFile, bool harvestedData, bool printedData)
         {
+            //assert all operations are completing successfully
             Assert.IsTrue(loadedFile);
             Assert.IsTrue(harvestedData);
             Assert.IsTrue(printedData);
