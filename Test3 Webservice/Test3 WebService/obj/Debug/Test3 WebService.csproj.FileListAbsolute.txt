@@ -1,0 +1,56 @@
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.csprojAssemblyReference.cache
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.csproj.CoreCompileInputs.cache
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\Test3 WebService.dll.config
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\Test3 WebService.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\Test3 WebService.pdb
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\csc.exe
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\csc.exe.config
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\csc.rsp
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\csi.exe
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\csi.exe.config
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\csi.rsp
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.AppContext.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Console.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Security.Claims.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\vbc.exe
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\vbc.exe.config
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\vbc.rsp
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.csproj.CopyComplete
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.dll
+C:\Users\kiero\Desktop\ABMDataSystems\Test3 Webservice\Test3 WebService\obj\Debug\Test3 WebService.pdb
