@@ -30,3 +30,4 @@ C:\Users\kiero\Desktop\ABMDataSystems\TechnicalTestABDDataSystems\obj\Debug\netc
 C:\Users\kiero\Desktop\ABMDataSystems\TechnicalTestABDDataSystems\obj\Debug\netcoreapp2.1\TechnicalTestABDDataSystems.dll
 C:\Users\kiero\Desktop\ABMDataSystems\TechnicalTestABDDataSystems\obj\Debug\netcoreapp2.1\TechnicalTestABDDataSystems.pdb
 C:\Users\kiero\Desktop\ABMDataSystems\TechnicalTestABDDataSystems\obj\Debug\netcoreapp2.1\TechnicalTestABDDataSystems.csprojAssemblyReference.cache
+C:\Users\kiero\Desktop\ABMDataSystems\TechnicalTestABDDataSystems\bin\Debug\netcoreapp2.1\content.xml
