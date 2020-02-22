@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TechnicalTestABDDataSystems
+﻿namespace TechnicalTestABDDataSystems
 {
 
     // NOTE: Generated code may require at least .NET Framework 4.5 or .NET Core/Standard 2.0.
     /// <remarks/>
+
+    /// <summary>
+    /// This class is generated from the provided XML document structure using reflection in order to generate the class object representation of the XML so we can serialize it and use it
+    /// </summary>
     [System.SerializableAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
